@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/_layout.jsx", "app/units/chefer/ChefList.jsx", "app/units/specialister/specialistList.jsx", "app/units/tasks/TaskList.jsx", "app/units/workplaces/cleaners/CleanerList.jsx", "app/units/workplaces/index.jsx", "app/units/workplaces/WorkplaceList.jsx", "app/index.jsx", "components/MainCard.jsx", "components/MainButton.jsx", "constants/Colors.js"  ]
 }

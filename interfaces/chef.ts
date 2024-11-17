@@ -1,0 +1,9 @@
+export interface Chef {
+    chefId?: string,
+    firstName?: string,
+    lastName?: string,
+    email?: string,
+    phoneNumber?: number,
+    photo?:string
+    
+}
